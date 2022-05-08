@@ -20,12 +20,12 @@
 
   --Python website app--
   --How to use it--
-    1.Create an account
-    2.Login
-    3.Home
-    4.Add Notes
-    5.Edit or Delete notes
-    6.Logout
+    1. Create an account
+    2. Login
+    3. Home
+    4. Add Notes
+    5. Edit or Delete notes
+    6. Logout
 
   Setup & Installtion
    git clone <repo-url>
