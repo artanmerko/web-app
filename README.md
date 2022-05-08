@@ -18,8 +18,8 @@
   https://flask.palletsprojects.com/en/2.1.x/
   https://www.python.org/doc/
 
-  --Python website app--
-  --How to use it--
+  #### --Python website app--
+  #### --How to use it--
     1. Create an account
     2. Login
     3. Home
@@ -27,11 +27,11 @@
     5. Edit or Delete notes
     6. Logout
 
-  Setup & Installtion
+  #### Setup & Installtion
    git clone <repo-url>
    pip install -r requirements.txt
 
-  --Running The App
+ --Running The App
     python app.py runserver
 
 
