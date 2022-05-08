@@ -1,6 +1,6 @@
 # Flask Web App
-#### Video Demo:  <URL https://www.youtube.com/watch?v=HwySXXy_Njk >
-#### Description:
+## Video Demo:  <URL https://www.youtube.com/watch?v=HwySXXy_Njk >
+## Description:
 
  Flask is a small and lightweight Python web framework that provides useful tools and features that make creating web applications in Python easier. It gives developers flexibility and is a more accessible framework for new developers since you can build a web application quickly using only a single Python file. Flask is also extensible and doesn’t force a particular directory structure or require complicated boilerplate code before getting started.
  Flask uses the Jinja template engine to dynamically build HTML pages using familiar Python concepts such as variables, loops, lists, and so on.
@@ -8,7 +8,7 @@
  In this project, I built a small web app using Flask and SQLite in Python 3. Users of the application can write notes in your database and edit or delete an existing notes.
 
 
-  Requirements:
+  ### Requirements:
 
   A local Python
   Flask
